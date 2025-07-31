@@ -4,8 +4,9 @@ python-dotenv
 sqlalchemy
 websockets
 sqlmodel
-mysqlclient
+# mysqlclient
 pymysql
 pydantic-settings
 gunicorn
 cryptography
+requests

@@ -8,6 +8,10 @@ node_modules/
 dist/
 venv/
 .vscode/
+.env
+.env.local
+.env.development
+.env.production
 # Compiled Java class files
 *.class
 # Compiled Python bytecode
